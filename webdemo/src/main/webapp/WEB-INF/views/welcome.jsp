@@ -7,6 +7,6 @@
 <title>Welcome!! from JSP</title>
 </head>
 <body>
-Welcome ${name} 
+Welcome ${name}. You are now authenticated. <a href="/list-todos">Click here</a> to start maintaining your todo's.
 </body>
 </html>
